@@ -1,0 +1,3 @@
+One-way ANOVA results for price by neighbourhood_group
+F-statistic: 1509.198
+p-value: 0.00000
